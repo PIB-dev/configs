@@ -1,0 +1,12 @@
+.music_slide {
+  display: block;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgba(6, 41, 63, 0.7);
+  color: white;
+  padding: 30px;
+  border-radius: 30px;
+  position: relative !important;
+  margin: 0 auto;
+  font-size: 50px;
+}
